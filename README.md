@@ -2,6 +2,8 @@
 
 This work proposed a efficient RL-based approach for coordinate demand response for massive distributed energy resources (DER) in VPP.
 
+Using the following to obtain the project:
+```git clone https://github.com/zhuocend/MFRL_DR_VPP.git```
 ### Updates, Jan/25/2024:
 The used datasets in this work are updated.
 Because it is difficult to obtain real operation data from VPPs, whereas the operation data of DERs are available, in this work, data from multiple open datasets containing PV outputs, the BSS demand, the real-time electricity price, etc., are used to generate the datasets required for each experimental scenario.
